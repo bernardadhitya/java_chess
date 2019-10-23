@@ -1,0 +1,4 @@
+Bernard 100
+Andrew 100
+Bill 50
+Jack 25
